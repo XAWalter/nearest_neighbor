@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Artiﬁcial intelligence allows for the oﬃciant analysis of large amounts of data utilizing
+Artificial intelligence allows for the efficient analysis of large amounts of data utilizing
 
 algorithms which allow for the consolidation of only important information. One of the most
 
 common algorithms that is utilized for this type of data analysis is the Nearest Neighbor
 
-algorithm. In the project, the nearest neighbor algorithm was utilized to eﬀectively select a
+algorithm. In the project, the nearest neighbor algorithm was utilized to effectively select a
 
 set of data features to maximize the ability to categorize subsequent subjects.
 
@@ -28,15 +28,15 @@ list of 10 features each and a large data set with 500 subjects each with 100 fe
 
 ## Small Data Set Results and Analysis
 
-For the small data set, the forward selection method was employed ﬁrst. As can be seen in
+For the small data set, the forward selection method was employed first. As can be seen in
 
-Figure 1, the ﬁrst set that is analyzed is the empty set. To clarify, the empty set when
+Figure 1, the first set that is analyzed is the empty set. To clarify, the empty set when
 
 checked for accuracy will simply return the default rate. Next, the loop will be executed
 
-that ﬁnds the feature that, if added, will result in the highest accuracy. Again referring to
+that finds the feature that, if added, will result in the highest accuracy. Again referring to
 
-the graph in Figure 1, it can be seen that the ﬁrst feature added was feature 9.
+the graph in Figure 1, it can be seen that the first feature added was feature 9.
 
 ![Figure 1](./images/1.png)\
 <sub>Figure 1. Graph depicting the feature set utilized and the resulting percent accuracy for the small data set utilizing the forward search algorithm.</sub>
@@ -49,10 +49,10 @@ To continue, the same small data set was analyzed using the backward elimination
 
 This method starts the added feature list with all the possible features and removes one per
 
-iteration. In Figure 2 it can be seen that there is an upward trend for the ﬁrst 9 iterations.
+iteration. In Figure 2 it can be seen that there is an upward trend for the first 9 iterations.
 
 ![Figure 2](./images/2.png)\
-<sub>Figure 2. Graph depicting the feature set utilzied and the resulting percent accuracy for the small data set utilizing the backward elimination algorithm.</sub>
+<sub>Figure 2. Graph depicting the feature set utilized and the resulting percent accuracy for the small data set utilizing the backward elimination algorithm.</sub>
 
 However, once the 3 is removed from the feature list, the accuracy drops dramatically. It
 
@@ -64,7 +64,7 @@ in the highest accuracy, .957, is {9, 3}.
 
 The large data set includes 500 separate subjects with a total of 100 collected features each.
 
-The Forward Selection method was utilized to ﬁnd the best possible combination of features
+The Forward Selection method was utilized to find the best possible combination of features
 
 to categorize unknown subjects. As Figure 3 depicts, the added features increase the
 
@@ -73,12 +73,12 @@ accuracy until abut the fourth added feature after which the accuracy starts on 
 trend.
 
 ![Figure 3](./images/4.png)\
-<sub>Figure 3. Graph depicting the feature set utilzied and the resulting percent accuracy for the large data set utilizing the forward search algorithm.</sub>
+<sub>Figure 3. Graph depicting the feature set utilized and the resulting percent accuracy for the large data set utilizing the forward search algorithm.</sub>
 
 
-The graph omits most of the data gathered but the ﬁnal two bars indicate the accuracy when
+The graph omits most of the data gathered but the final two bars indicate the accuracy when
 
-the ﬁnal two features are added. This shows that the maximum accuracy was about .938.
+the final two features are added. This shows that the maximum accuracy was about .938.
 
 ## Conclusion
 
@@ -116,7 +116,7 @@ small data sets.
 
 ## Works Consulted
 
-• Project 2 brieﬁng lecture
+• Project 2 briefing lecture
 
 • https://www.geeksforgeeks.org/measure-execution-time-function-cpp/ for timing code
 
