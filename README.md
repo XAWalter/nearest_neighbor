@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Artiﬁcial intelligence allows for the oﬃciant analysis of large amounts of data utilizing
+Artiﬁcial intelligence allows for the eﬃciant analysis of large amounts of data utilizing
 
 algorithms which allow for the consolidation of only important information. One of the most
 
