@@ -8,7 +8,7 @@ algorithms which allow for the consolidation of only important information. One 
 
 common algorithms that is utilized for this type of data analysis is the Nearest Neighbor
 
-algorithm. In the project, the nearest neighbor algorithm was utilized to eﬀectively select a
+algorithm. In this project, the nearest neighbor algorithm was utilized to eﬀectively select a
 
 set of data features to maximize the ability to categorize subsequent subjects.
 
