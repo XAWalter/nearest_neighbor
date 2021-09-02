@@ -2,13 +2,21 @@
 
 ## Introduction
 
+<<<<<<< HEAD
 Artificial intelligence allows for the efficient analysis of large amounts of data utilizing
+=======
+Artiﬁcial intelligence allows for the eﬃciant analysis of large amounts of data utilizing
+>>>>>>> 60d7c76fe12f188ffa1d2625885a96799ccbd852
 
 algorithms which allow for the consolidation of only important information. One of the most
 
 common algorithms that is utilized for this type of data analysis is the Nearest Neighbor
 
+<<<<<<< HEAD
 algorithm. In the project, the nearest neighbor algorithm was utilized to effectively select a
+=======
+algorithm. In this project, the nearest neighbor algorithm was utilized to eﬀectively select a
+>>>>>>> 60d7c76fe12f188ffa1d2625885a96799ccbd852
 
 set of data features to maximize the ability to categorize subsequent subjects.
 
